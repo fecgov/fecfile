@@ -1,13 +1,33 @@
 # FECFile Release Notes
 
-**NEW! Build 8.1.0.6  
+**NEW! Build 8.2
+Release date – June 7, 2017**
+
+What's new?
+
+*	FECFile — Revised Form 3Z and 3PZ.
+*	FECFile — Faxed confirmation receipts will no longer be sent.
+*	FECFile — Form 2, vice presidential name fields have been added for presidential candidates. 
+*	FECFile — Schedule H1, Flat Minimum Percentage option has been removed.
+*	FECFile — Form 5, contributions received can now be added to 24/48 hour independent expenditure reports.
+*	FECPrint — Page by page and schedule view is no longer supported. 
+*	FECPrint — All negative value minus signs (-) have been replaced with an en dash (–) plus a space.
+*	FECPrint — Form 1, Line 5C now shows Name of Candidate.
+*	FECPrint — Form 1S, standardized Form 1S with new template (now accommodating four Joint Fundraising Participants, 1 Affiliated, 1 Designated Agent, and 1 Bank in each Form 1S).
+*	FECPrint — Form 2S, standardized Form 2S with new template (now accommodating four Authorized Committees in each Form 2S).
+*	FECPrint — Form 3P, Termination Report checkbox bug has been corrected.
+*	FECPrint — Form 3X, Schedule E, Subtotal labels (a, b, c) have been corrected.
+*	FECCheck — Form 1, changed from Warning to Error for Candidate Office, State, and District, if committee is Principal Campaign Committee or Authorized Committee.
+*	FECCheck — Form 1, changed from Warning to Error for Party Code if committee is Principal Campaign Committee; Authorized Committee; or a National, State, or Subordinate Party Committee.
+*	FECCheck — Form 2, added Warning, for vice president Last Name and First Name Fields, if Office is P (presidential).
+
+
+**Build 8.1.0.6  
 Release date – October 11, 2016**  
 [  
 ](http://fecload-update.fec.gov/cgi-bin/fecfile)Updates:
 
 *   FECPrint - Forms 3, 3P and 3X: The FEC Identification Number field on Schedule B will now display the committee ID. In the absence of a committee ID, the candidate ID will display.
-
-**[Download Now](http://fecload-update.fec.gov/cgi-bin/fecfile)**
 
 **Build 8.1.0.5  
 Release date – October 3, 2016**
@@ -572,4 +592,4 @@ Updates:
 *   YE does not select default dates.
 *   Form 2 fax number has been added
 
-Page last updated October 11, 2016
+Page last updated June 7, 2017
