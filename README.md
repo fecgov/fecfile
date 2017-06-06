@@ -3,7 +3,7 @@
 **NEW! Build 8.2
 Release date – June 7, 2017**
 
-What's new?
+What's new? 
 
 *	FECFile — Revised Form 3Z and 3PZ.
 *	FECFile — Faxed confirmation receipts will no longer be sent.
